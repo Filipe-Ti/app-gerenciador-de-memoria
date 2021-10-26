@@ -1,0 +1,20 @@
+{
+  "name": "app-gerenciador-de-memoria",
+  "version": "1.0.0",
+  "description": "Gerencia o consumo de memória",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipe-Ti/app-gerenciador-de-memoria.git"
+  },
+  "author": "ProtecDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filipe-Ti/app-gerenciador-de-memoria/issues"
+  },
+  "homepage": "https://github.com/Filipe-Ti/app-gerenciador-de-memoria#readme",
+  "dependencies": {}
+}
